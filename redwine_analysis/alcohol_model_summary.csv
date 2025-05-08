@@ -1,0 +1,6 @@
+Version,Description,R-squared,Difference
+0,Initial model,0.5625868186549963,0.0
+1,Model with Standard Scaling,0.562586818655004,7.771561172376096e-15
+2,Model with Potential Outliers Removed,0.5228579091586054,-0.03972890949639085
+3,Default Feature Baseline Model,0.7048599472363037,0.14227312858130747
+4,Baseline Model (v4) with Significant Features,0.7025659190823372,0.13997910042734096

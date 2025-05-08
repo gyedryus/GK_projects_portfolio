@@ -1,0 +1,9 @@
+Version,Description,R-squared,Difference
+0,Initial model,0.4160903860211105,0.0
+1,Model with Resampled dataset,-0.2073983251895597,-0.6234887112106702
+2,Model without Non-Significant Features,0.41802389870517587,0.001933512684065386
+3,Model with Standard Scaling,0.41609038602111004,-4.440892098500626e-16
+4,Model with Potential Outliers Removed,0.34364048286523663,-0.07244990315587385
+5,Model with Rounded Prediction,0.28375980307974136,-0.13233058294136912
+6,Default Feature Baseline Model,0.4169637825509759,0.0008733965298654001
+7,Baseline Model (v6) with Significant Features,0.41556119912537637,-0.0005291868957341128
