@@ -1,0 +1,3 @@
+Weekday,Total_number_of_Reviews,Reviews_per_day_ci_lower_bound,Reviews_per_day_ci_upper_bound
+Workday,2528675,2300,2390
+Weekend,636314,1438,1521
